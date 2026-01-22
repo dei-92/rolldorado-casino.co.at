@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolldorado-Boni &amp; Promo-Codes für Spieler in Österreich on rolldorado</title>
-    <link>http://rolldorado-casino.co.at/bonus/</link>
+    <link>http://localhost:1313/bonus/</link>
     <description>Recent content in Rolldorado-Boni &amp; Promo-Codes für Spieler in Österreich on rolldorado</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://rolldorado-casino.co.at/bonus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bonus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
